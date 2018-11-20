@@ -3,7 +3,7 @@
 This plugin for elinks mimics pentadacty/trydactil/cvim/vimium
 links navigation.
 
-[![asciicast](demo.gif)](https://asciinema.org/a/N69WfAGW41rekd0K18AwjLTi6)
+<a href="https://asciinema.org/a/N69WfAGW41rekd0K18AwjLTi6"><img src="demo.gif"></a>
 
 # install
 
