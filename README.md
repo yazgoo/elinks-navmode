@@ -19,6 +19,6 @@ plug("git@github.com:yazgoo/elinks-navmode")
 
 1. press f to enable navmode
 2. press ctrl + R to refresh current page
-3. press g to goto a link number
+3. press x to goto a link number
 4. enter the link number in the dialog
 5. press enter
